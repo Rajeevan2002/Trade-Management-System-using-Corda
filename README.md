@@ -9,9 +9,9 @@ Gradle
 1. Open the Corda Application in IntelliJ IDEA.
 2. Now Open the Command prompt in the Corda Application.
 3. Use “gradlew clean deployNodes”command.
-    "*" Nodes are built on the Cordapp installed on them.
+* Nodes are built on the Cordapp installed on them.
 4.  Go to the “build/nodes” folder.
-    a.  A folder for each generated node
+      A folder for each generated node
     b.  A runnodes shell script for running all the nodes simultaneously on OSX
     c.  A runnodes.bat batch file for running all the nodes simultaneously on Windows
 5.  To start the nodes and the sample CorDapp
