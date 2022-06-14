@@ -5,7 +5,7 @@ IntelliJ
 Java JDK 8
 Git
 Gradle
-# Steps: -
+## Steps: -
 1. Open the Corda Application in IntelliJ IDEA.
 2. Now Open the Command prompt in the Corda Application.
 3. Use “gradlew clean deployNodes”command.
