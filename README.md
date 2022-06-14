@@ -1,10 +1,10 @@
 # Trade-Management-System-using-Corda
 A Trade Management System to facilitate the transactions between Buyer, Seller and Trader
 ## SOFTWARES NEEDED: -
-IntelliJ 2017.x, 2018.x, 2019.x, and 2020.x
-Java JDK 8
-Git
-Gradle
+* IntelliJ 2017.x, 2018.x, 2019.x, and 2020.x
+* Java JDK 8
+* Git
+* Gradle
 ## Steps: -
 * Open the Corda Application in IntelliJ IDEA.
 * Now Open the Command prompt in the Corda Application.
