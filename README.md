@@ -33,4 +33,5 @@ A Trade Management System to facilitate the transactions between Buyer, Seller a
   * Run an integration test to calibrate your environment.
   * Run the CorDapp’s contract tests by running the Run Contract Tests – Java. 
   * Run the CorDapp’s flow tests by running the Run Flow Tests - Java run configuration.
+* For Further References: https://drive.google.com/file/d/1RG_A5_NX7E9xLtDU1QjjfDwQL-sS1XO1/view
 
