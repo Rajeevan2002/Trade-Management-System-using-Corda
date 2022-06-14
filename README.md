@@ -1,7 +1,7 @@
 # Trade-Management-System-using-Corda
 A Trade Management System to facilitate the transactions between Buyer, Seller and Trader
-# SOFTWARES NEEDED: -
-IntelliJ
+## SOFTWARES NEEDED: -
+IntelliJ versions 2017.x, 2018.x, 2019.x, and 2020.x
 Java JDK 8
 Git
 Gradle
@@ -9,7 +9,7 @@ Gradle
 1. Open the Corda Application in IntelliJ IDEA.
 2. Now Open the Command prompt in the Corda Application.
 3. Use “gradlew clean deployNodes”command.
-    a.  Nodes are built on the Cordapp installed on them.
+    "*" Nodes are built on the Cordapp installed on them.
 4.  Go to the “build/nodes” folder.
     a.  A folder for each generated node
     b.  A runnodes shell script for running all the nodes simultaneously on OSX
